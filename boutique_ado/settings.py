@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-=lma2a0l=f&8=ktjd1b@8i-(202q&&c23rlw0i1b&hp*c4cw0)
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-adrielelima-boutiqueado-wiko6dowfhc.ws-eu104.gitpod.io',
+    '8000-adrielelima-boutiqueado-wiko6dowfhc.ws-eu105.gitpod.io',
 ]
 
 
