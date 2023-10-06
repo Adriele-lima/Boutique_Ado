@@ -28,7 +28,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-adrielelima-boutiqueado-wiko6dowfhc.ws-eu105.gitpod.io',
-    'https://boutiqueado-course-c580423ffe07.herokuapp.com/',
+    '.herokuapp.com/',
 ]
 
 
