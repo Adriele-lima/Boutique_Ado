@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'boutiqueado-course-c580423ffe07.herokuapp.com' 
+    'boutiqueado-course-c580423ffe07.herokuapp.com',
     'local host',
 ]
 
