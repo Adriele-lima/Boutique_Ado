@@ -27,8 +27,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-adrielelima-boutiqueado-wiko6dowfhc.ws-eu105.gitpod.io',
-    '.herokuapp.com/',
+    'boutiqueado-course-c580423ffe07.herokuapp.com' 
+    'local host',
 ]
 
 
